@@ -1,0 +1,2 @@
+(executable
+ (name bubble_sort))
